@@ -3,6 +3,7 @@ Wprowadzenie
 
 Kalkulator masy molowej to aplikacja internetowa, która umożliwia użytkownikom obliczenie masy molowej związków organicznych na podstawie ich wzorów chemicznych. Aplikacja korzysta z danych o masach atomowych pierwiastków chemicznych, które są przechowywane w pliku JSON.
 
+
 Wymagania
 
 Aby korzystać z kalkulatora, użytkownik potrzebuje:
@@ -10,6 +11,7 @@ Aby korzystać z kalkulatora, użytkownik potrzebuje:
 Przeglądarki internetowej (np. Chrome, Firefox, Safari).
 
 Połączenia z Internetem (do załadowania danych z pliku JSON).
+
 
 Interfejs użytkownika
 Interfejs kalkulatora składa się z następujących elementów:
@@ -25,6 +27,7 @@ Wynik: Miejsce, w którym wyświetlana jest obliczona masa molowa.
 Wynik procentowy: Miejsce, w którym wyświetlany jest skład procentowy poszczególnych pierwiastków w związku.
 
 Lista rozwijana: Umożliwia wybór pierwiastka chemicznego, który można dodać do wzoru.
+
 
 Jak korzystać z kalkulatora
 
@@ -44,6 +47,7 @@ Obsługa klawisza Enter:
 
 Możesz również nacisnąć klawisz Enter po wprowadzeniu wzoru chemicznego, aby uruchomić obliczenia.
 
+
 Działanie aplikacji
 
 Aplikacja działa w następujący sposób:
@@ -55,9 +59,11 @@ Obliczenia: Po wprowadzeniu wzoru chemicznego, aplikacja analizuje wzór, oblicz
 Wyświetlanie wyników: Obliczone wartości są wyświetlane w odpowiednich sekcjach interfejsu.
 
 
+
 Obsługa błędów
 
 Jeśli użytkownik wprowadzi nieprawidłowy wzór chemiczny (np. pierwiastek, który nie znajduje się w bazie danych), aplikacja wyświetli komunikat o błędzie.
+
 
 Przykład użycia
 
@@ -68,6 +74,7 @@ Kliknij "Oblicz masę molową".
 Otrzymasz wynik: Masa molowa: 180.18 g/mol.
 
 Skład procentowy zostanie również wyświetlony.
+
 
 Podsumowanie
 
